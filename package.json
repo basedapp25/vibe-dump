@@ -1,6 +1,6 @@
 {
   "name": "vibe-dump",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dump project structure and files to Markdown",
   "main": "dump.js",
   "bin": {
@@ -12,8 +12,8 @@
   "author": "Arch Valmiki",
   "license": "MIT",
   "repository": {
-      "type": "git",
-      "url": "git+https://github.com/basedapp25/vibe-dump.git"
-    }
-  
+    "type": "git",
+    "url": "git+https://github.com/basedapp25/vibe-dump.git"
+  },
+  "homepage": "https://github.com/basedapp25/vibe-dump#readme"
 }

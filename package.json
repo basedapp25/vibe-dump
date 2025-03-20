@@ -1,0 +1,14 @@
+{
+  "name": "vibe-dump",
+  "version": "0.1.0",
+  "description": "Dump project structure and files to Markdown",
+  "main": "dump.js",
+  "bin": {
+    "vibe-dump": "./dump.js"
+  },
+  "dependencies": {
+    "ignore": "^5.3.2"
+  },
+  "author": "Arch Valmiki",
+  "license": "MIT"
+}
